@@ -1,4 +1,4 @@
 # PHP e Javascript
 
  **teste repositorio curso**
- - __mais 1 linha adicionada remotamente__
+ - _mais 1 linha adicionada remotamente_
